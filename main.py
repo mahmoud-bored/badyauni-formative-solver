@@ -6,8 +6,8 @@ from selenium.common import NoSuchElementException, ElementNotInteractableExcept
 from selenium.webdriver.support import expected_conditions as EC
 
 loginCredentials = { 
-    "username": "m.mohamed2400718", 
-    "password": "Hello.py503"
+    "username": "", 
+    "password": ""
 }
 
 data = {}
